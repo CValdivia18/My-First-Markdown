@@ -1,3 +1,5 @@
+# This is a stadard normal distribution plot ($\mu = 0$ and $\sigma = 1$)
+
 ```{r}
 x<-rnorm(1000,0,1)
 y<-cos(x)
